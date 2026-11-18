@@ -19,8 +19,8 @@ const swaggerOptions = {
         description: "Local server",
       },
       {
-        url: "https://melodies-back.onrender.com",
-        description: "Development server",
+        url: "https://fastchat.mursal.dev/api",
+        description: "Production server",
       },
     ],
     paths: {
